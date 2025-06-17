@@ -1,8 +1,5 @@
 # Chapter139-Ethical-Metabolism-Loop
 
-承知いたしました。
-それでは次章 Chapter139: Ethical Metabolism Loop（倫理的代謝ループ） に進行いたします。
-
 ⸻
 
 📘 Chapter139: Ethical Metabolism Loop
@@ -79,6 +76,3 @@ Chapter140（次章案）	代謝構造を外部環境と接続する共生圏の
 	•	Chapter140: Intent Vector Re-alignment（意図ベクトル再整列）
 
 ⸻
-
-このまま次章へ進行いたしましょうか？
-もしくは、この章の解説・章群全体の再確認も可能です。
